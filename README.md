@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-Creating an Earthquake Mapping App with JavaScript and the D3 library
+Creating an Earthquake Mapping App with JavaScript, Leaflet.js, and geoJSON data. 
 
 ## Purpose
 
